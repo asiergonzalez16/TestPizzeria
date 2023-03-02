@@ -1,0 +1,11 @@
+1,Brisa, 14.00
+2,Danger Mouse, 14.00
+3,Rebellió A La Granja, 13.80
+4,La Mar Sala, 14.80
+5,Ukelele, 12.50
+6,Pan América, 13.00
+7,Tex Mex, 13.80
+8,Big Bang, 13.80
+9,Ibérica, 14.50
+10,Gamba, 15.00
+11,Fira, 13.80

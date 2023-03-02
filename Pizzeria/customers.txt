@@ -1,0 +1,10 @@
+1,Eric,Av.Generalitat 42,eric@gmail.com,112451249
+2,Ruben,Av.Catalunya 31,ruben@gmail.com,212451349
+3,Xavi,Calle del Mar 22,xavi@gmail.com,312451449
+4,Pedri,Fairrer 12,pedri@gmail.com,412451289
+5,Gavi,Puig Car 45,gavi@gmail.com,512412349
+6,Ferran,Av. Maradona 18,ferran@gmail.com,622451249
+7,Aina,Av. Santa Coloma 72,aina@gmail.com,729451249
+8,Andrea,Lluis Companys 14,andrea@gmail.com,812451249
+9,David,Plaza Vila 34,david@gmail.com,912451249
+10,Sergi,Plaza Espanya 99,sergi@gmail.com,102451249

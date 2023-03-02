@@ -1,0 +1,20 @@
+1,Mozzarella
+2,Ceba
+3,Tomaquet
+4,Pinyons
+5,Xampinyons
+6,Oregan
+7,Tonyina
+8,Pollaste
+9,Formatge Emmental
+10,Gambes
+11,Pepperoni
+13,Carn Picada
+14,Bacon
+15,Salsa Alfabrega
+16,Pinya
+17,Botifarra Brisa
+18,Pernil Iberic
+19,Pernil Serra
+20,Salsa barbacoa
+21,Espinacs
